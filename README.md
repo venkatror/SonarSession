@@ -4,5 +4,5 @@
   Jenkins: Continuous Integration tool.
   Plugins: Sonar Runner plugin
   Code Quality Analysis reports sent to SonarServer
-  
+  this is demo purpose for sonarQube scanner for source code
   
